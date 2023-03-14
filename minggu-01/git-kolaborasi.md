@@ -17,3 +17,19 @@ Setelah proses tersebut, clone di komputer lokal, Setelah itu, konfigurasikan re
 origin: menunjuk ke repo milik kontributor di GitHub, hasil dari fork.
 upstream: menunjuk ke repo milik upstream author (repo asli) di account oldstager. Repo origin sudah dituliskan konfigurasinya pada saat melakukan proses clone dari repo kontributor. Konfigurasi repo upstream harus dibuat.
 
+<img width="412" alt="2" src="https://user-images.githubusercontent.com/115064323/224925683-45188718-25b1-4629-a903-873fd8021fa2.png">
+
+Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
+ 5. Setelah itu, buka halaman Web dari repo kontributor [https://github.com/Afifa9/tekn-cloud-computing-1](https://github.com/krishnaokvan/aksesoris-hp.git). Pada halaman tersebut akan ditampilkan isi yang kita push.
+<img width="421" alt="3" src="https://user-images.githubusercontent.com/115064323/224926060-f47d30a0-5133-4808-a919-7d0c9338e479.png">
+
+ 6. Pilih ```Compare and pull request```, kemudian isikan deskripsi PR dan klik pada ```Create pull request```:
+<img width="451" alt="4" src="https://user-images.githubusercontent.com/115064323/224926137-faa601d1-2f09-4c84-847c-84dd77c8249a.png">
+<img width="902" alt="5" src="https://user-images.githubusercontent.com/115064323/224926139-208e2db6-3fe9-4cd5-bfd5-cd44267a9620.png">
+
+
+ 7. Pada repo upstream author, muncul angka 1 (artinya jumlahnya 1) pada Pull requests di bagian atas.
+ 8. Upstream author bisa menyetujui setelah melakukan review: klik pada Pull requests, akan muncul PR dengan message seperti yang ditulis oleh kontributor     (Add: contributor). Klik pada PR tersebut, review kemudian klik Merge pull request diikuti dengan Confirm merge. Setelah itu, status akan berubah menjadi   Merged.
+ 9. Sinkronkan semua repo (lokal maupun GitHub kontributor)
+<img width="907" alt="6" src="https://user-images.githubusercontent.com/115064323/224926144-1adc8c70-f3a6-4a53-9f93-613e4cd2e1d0.png">
+<img width="361" alt="7" src="https://user-images.githubusercontent.com/115064323/224926149-257565a5-1ec2-4689-a853-05ac34c97b29.png">
