@@ -59,4 +59,7 @@ Secara umum repositori Github dibagi menjadi 2 yaitu Public dan Private
 
 Berikut Mengkonfigurasi Kembali :
 ![alt text](gambar-12.jpg?raw=true)
+
 ![alt text](gambar-13.jpg?raw=true)
+
+Git log -oneline adalah sebuah perintah untuk menampilkan log commit pada sebuah repository dengan format satu baris untuk setiap commit. Setiap baris menunjukkan informasi singkat mengenai commit tersebut, seperti hash commit, pesan commit, dan informasi lainnya yang terkait dengan commit.
