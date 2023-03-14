@@ -27,3 +27,24 @@ Berikut latihan untuk mengelola Repo
  
 ### Jika ada perubahan pada file / directory, langkah untuk push adalah = add - commit - push
 ![alt text](gambar-05.jpg?raw=true)
+
+### Berikut preview perubahan dalam file
+![alt text](gambar-06.jpg?raw=true)
+
+### Checkout merupakan perintah untuk membuat / menukar branch atau cabang
+
+### Langkah-langkah dalam melakukan checkout
+![alt text](gambar-07.jpg?raw=true)
+
+### Proses merge request branch
+![alt text](gambar-08.jpg?raw=true)
+![alt text](gambar-09.jpg?raw=true)
+
+
+### Proses merge pada komputer lokal
+![alt text](gambar-10.jpg?raw=true)
+![alt text](gambar-11.jpg?raw=true)
+
+Push kembali jika ada perubahan
+![alt text](gambar-12.jpg?raw=true)
+![alt text](gambar-13.jpg?raw=true)
