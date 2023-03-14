@@ -7,6 +7,7 @@
     1. Login ke GitHub
     2. Akses repo yang akan di-fork: https://github.com/harry-prd/aksesoris-hp.git
     3. Pada sisi kanan atas, klik Fork:
+    
 <img width="915" alt="gambar2" src="https://user-images.githubusercontent.com/115064323/224923946-93bea927-f68c-45e7-9e87-7a419cba4d47.png">
 <img width="923" alt="gambar1" src="https://user-images.githubusercontent.com/115064323/224923939-9549dd87-17a2-4e5d-8d00-b2dffe4ef352.png">
 
