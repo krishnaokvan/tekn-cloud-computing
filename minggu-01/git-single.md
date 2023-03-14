@@ -15,6 +15,7 @@ Kemudian pilih versi 64-bit atau 32-bit sesuai arsitektur komputer kita.
 
 ## Konfigurasi Git
 Berikut merupakan Screenshot untuk mengkonfigurasi Git dan mengkonfigurasi yang sudah ada :
+Sebagaimana telah Anda lihat secara singkat di Memulai, Anda bisa menentukan pengaturan konfigurasi Git dengan perintah git config. Salah satu hal pertama yang harus Anda lakukan adalah menyiapkan nama dan alamat surel Anda.
  ![alt text](gambar-02.jpg?raw=true)
  
  Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub. Untuk melihat konfigurasi yang sudah ada.
