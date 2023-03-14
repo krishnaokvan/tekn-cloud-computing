@@ -18,6 +18,12 @@ Berikut merupakan Screenshot untuk mengkonfigurasi Git dan mengkonfigurasi yang 
  
  ## Mengelola Repo Sendiri
 Berikut latihan untuk mengelola Repo
-![alt text](gambar-04.jpg?raw=true)
 
+### Buat repositori baru
+![alt text](gambar-03.jpg?raw=true)
+
+### Clone repositori yang baru saja dibuat
+![alt text](gambar-04.jpg?raw=true)
  
+### Jika ada perubahan pada file / directory, langkah untuk push adalah = add - commit - push
+![alt text](gambar-05.jpg?raw=true)
