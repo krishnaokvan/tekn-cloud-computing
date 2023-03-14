@@ -11,3 +11,10 @@ Kemudian pilih versi 64-bit atau 32-bit sesuai arsitektur komputer kita.
  Cek versi Git yang terinstall :
  
  ![alt text](gambar-01.jpg?raw=true)
+
+## Konfigurasi Git
+Berikut merupakan Screenshot untuk mengkonfigurasi Git:
+ ![alt text](gambar-02.jpg?raw=true)
+ 
+ Cek konfigurasi yang sudah ada :
+ 
