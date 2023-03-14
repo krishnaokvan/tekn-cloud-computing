@@ -13,8 +13,11 @@ Kemudian pilih versi 64-bit atau 32-bit sesuai arsitektur komputer kita.
  ![alt text](gambar-01.jpg?raw=true)
 
 ## Konfigurasi Git
-Berikut merupakan Screenshot untuk mengkonfigurasi Git:
+Berikut merupakan Screenshot untuk mengkonfigurasi Git dan mengkonfigurasi yang sudah ada :
  ![alt text](gambar-02.jpg?raw=true)
  
- Cek konfigurasi yang sudah ada :
+ ## Mengelola Repo Sendiri
+Berikut latihan untuk mengelola Repo
+![alt text](gambar-04.jpg?raw=true)
+
  
