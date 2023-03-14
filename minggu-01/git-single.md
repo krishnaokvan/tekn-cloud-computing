@@ -62,4 +62,6 @@ Berikut Mengkonfigurasi Kembali :
 
 ![alt text](gambar-13.jpg?raw=true)
 
-Git log -oneline adalah sebuah perintah untuk menampilkan log commit pada sebuah repository dengan format satu baris untuk setiap commit. Setiap baris menunjukkan informasi singkat mengenai commit tersebut, seperti hash commit, pesan commit, dan informasi lainnya yang terkait dengan commit.
+- Git log -oneline adalah sebuah perintah untuk menampilkan log commit pada sebuah repository dengan format satu baris untuk setiap commit. Setiap baris menunjukkan informasi singkat mengenai commit tersebut, seperti hash commit, pesan commit, dan informasi lainnya yang terkait dengan commit.
+
+- git revert adalah sebuah perintah pada Git yang digunakan untuk membatalkan perubahan yang ada pada sebuah commit. Perintah ini akan membuat sebuah commit baru yang akan mengembalikan codebase ke kondisi sebelum commit yang ingin dibatalkan dilakukan.
