@@ -1,4 +1,4 @@
-# Link Hasil Praktikum
+# Link Hasil Praktikum Minggu-01
 
 [1. git-single](/minggu-01/git-single.md)
 
