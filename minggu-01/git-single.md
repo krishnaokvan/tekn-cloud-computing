@@ -9,4 +9,5 @@ Kemudian pilih versi 64-bit atau 32-bit sesuai arsitektur komputer kita.
 <img width="342" alt="git-4" src="https://user-images.githubusercontent.com/115064323/224933478-5ac87615-fdd2-40bb-a086-25603f115d10.png">
 
  Cek versi Git yang terinstall :
+ 
  ![alt text](gambar-01.jpg?raw=true)
