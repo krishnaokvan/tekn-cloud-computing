@@ -34,7 +34,7 @@ Setiap orang yang telah mempunyai account di GitHub bisa membuat repo dengan. Se
 ### Clone repositori yang baru saja dibuat
 ![alt text](gambar-04.jpg?raw=true)
  
-### Jika ada perubahan pada file / directory, langkah untuk push adalah = add - commit - push
+### Jika ada perubahan pada file atau directory, langkah untuk push adalah ( add - commit - push )
 ![alt text](gambar-05.jpg?raw=true)
 
 ### Berikut preview perubahan dalam file
@@ -46,6 +46,7 @@ Setiap orang yang telah mempunyai account di GitHub bisa membuat repo dengan. Se
 ![alt text](gambar-07.jpg?raw=true)
 
 ### Proses merge request branch
+Dengan menggunakan cara ini, setiap kali akan melakukan perubaham, perubahan itu dilakukan di komputer lokal dengan membuat suatu cabang yang nantinya digunakan untuk menampung perubahan-perubahan tersebut. Setelah itu, cabang itu yang akan dikirim ke repo GitHub untuk dimintai review kemudian digabungkan (merge) ke master. Secara umum, repo yang dibuat biasanya sudah mempunyai satu branch yang disebut dengan master. Cara ini lebih aman, terstruktur, terkendali, dan mempunyai history yang lebih baik. Jika perubahan yang kita buat sudah terlalu kacau dan kita menyesal, maka ada cara untuk "membersihkan" repo lokal kita. 
 ![alt text](gambar-08.jpg?raw=true)
 ![alt text](gambar-09.jpg?raw=true)
 
