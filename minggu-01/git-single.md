@@ -9,6 +9,7 @@ Kemudian pilih versi 64-bit atau 32-bit sesuai arsitektur komputer kita.
 <img width="342" alt="git-4" src="https://user-images.githubusercontent.com/115064323/224933478-5ac87615-fdd2-40bb-a086-25603f115d10.png">
 
  Cek versi Git yang terinstall :
+ Dengan cara git --version pada Git Bash atau di CMD, seperti berikut :
  
  ![alt text](gambar-01.jpg?raw=true)
 
@@ -16,8 +17,15 @@ Kemudian pilih versi 64-bit atau 32-bit sesuai arsitektur komputer kita.
 Berikut merupakan Screenshot untuk mengkonfigurasi Git dan mengkonfigurasi yang sudah ada :
  ![alt text](gambar-02.jpg?raw=true)
  
+ Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub. Untuk melihat konfigurasi yang sudah ada.
+ 
  ## Mengelola Repo Sendiri
-Berikut latihan untuk mengelola Repo
+Berikut latihan untuk mengelola Repo : 
+Setiap orang yang telah mempunyai account di GitHub bisa membuat repo dengan. Secara umum, langkah-langkahnya adalah sebagai berikut:
+
+- Buat repo kosong di GitHub, bisa public maupun private.
+- Cloe repo kosong tersebut di komputer lokal
+- Perintah berikutnya terkait dengan perubahan repo serta sinkronisasi antara GitHub dengan lokal.
 
 ### Buat repositori baru
 ![alt text](gambar-03.jpg?raw=true)
@@ -45,6 +53,6 @@ Berikut latihan untuk mengelola Repo
 ![alt text](gambar-10.jpg?raw=true)
 ![alt text](gambar-11.jpg?raw=true)
 
-Push kembali jika ada perubahan
+Berikut Mengkonfigurasi Kembali :
 ![alt text](gambar-12.jpg?raw=true)
 ![alt text](gambar-13.jpg?raw=true)
