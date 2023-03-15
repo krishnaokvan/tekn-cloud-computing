@@ -163,4 +163,8 @@ Kerugian dari plaform SaaS diantaranya yaitu :
 **8. Memulai dengan pengujian perangkat lunak**
 
   Memulai dengan pengujian perangkat lunak adalah langkah penting dalam pengembangan perangkat lunak. Berikut adalah beberapa langkah yang dapat diambil untuk memulai dengan pengujian perangkat lunak:
-  Membuat rencana pengujian, Membuat skenario pengujian, Menyiapkan lingkungan pengujian, Melakukan pengujian, Menganalisis hasil pengujian, Menerapkan perbaikan.
+  * Membuat rencana pengujian, 
+  * Membuat skenario pengujian, 
+  * Menyiapkan lingkungan pengujian, 
+  * Melakukan pengujian, Menganalisis hasil pengujian, dan
+  * Menerapkan perbaikan.
