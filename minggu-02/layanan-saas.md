@@ -77,7 +77,7 @@ Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data ya
 
 ![cd](cdr.jpg)
 
-**Corel Draw** adalah editor grafik vektor, ia mempunyai beberapa versi mulai dari versi 1 sampai yang terbaru adalah CorelDraw Graphics suite 2019 atau X9 yang versi full version aslinya dibanderol $699 atau sekitar 9,5 jutaan. 
+**Corel Draw** adalah software desain grafis yang dikembangkan oleh perusahaan perangkat lunak Corel Corporation. Software ini digunakan untuk membuat berbagai jenis desain, seperti ilustrasi vektor, gambar bitmap, dan layout halaman. CorelDRAW dilengkapi dengan berbagai macam fitur, seperti pensil, kuas, efek, dan fitur teks.
 
 **Fungsi Corel Draw**
 
