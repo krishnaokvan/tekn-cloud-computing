@@ -87,7 +87,7 @@ Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data ya
 2. Membuat Desain Layout Halaman
     * CorelDRAW digunakan untuk membuat desain layout halaman untuk publikasi seperti brosur, pamflet, majalah, atau buku. Fungsi ini memungkinkan pengguna untuk mengatur teks, gambar, dan element desain lainnya dalam susunan yang menarik dan mudah dibaca.
 
-3. Konversi Gambar Bitmmap
+3. Konversi Gambar Bitmap
     * CorelDRAW juga dapat digunakan untuk mengedit gambar bitmap seperti foto atau gambar digital lainnya. Fungsi ini memungkinkan pengguna untuk melakukan koreksi warna, menghilangkan efek merah mata, dan memodifikasi gambar lainnya.
 
 4. Membuat Ilustrasi 
