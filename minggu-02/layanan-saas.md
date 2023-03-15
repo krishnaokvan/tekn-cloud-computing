@@ -22,7 +22,7 @@ Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data ya
 
 ## Versi Non Cloudnya ialah Windows Explorer
 
-![gd](we.jpg)
+![gd](fe.jpg)
 
 **Windows Explorer** adalah sebuah aplikasi perangkat lunak yang menjadi bagian yang tak terpisahkan dari beberapa versi sistem operasi Microsoft Windows yang menyediakan antarmuka grafis kepada pengguna untuk mengakses sistem berkas (baik itu sistem berkas cakram ataupun sistem berkas jaringan). Komponen Windows inilah yang mempresentasikan antarmuka kepada pengguna di dalam monitor dan mengizinkan pengguna untuk mengontrol komputer yang menjalankan sistem operasi Windows. Kadang-kadang, Windows Explorer juga disebut sebagai Windows GUI shell atau "Explorer" saja.
 
