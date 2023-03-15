@@ -161,3 +161,6 @@ Kerugian dari plaform SaaS diantaranya yaitu :
    Dengan Python, MongoDB - sebagai basis data yang berorientasi pada dokumen, perangkat lunak RabbitMQ sebaiknya dilakukan dengan pengaturan dasar. 
    
 **8. Memulai dengan pengujian perangkat lunak**
+
+  Memulai dengan pengujian perangkat lunak adalah langkah penting dalam pengembangan perangkat lunak. Berikut adalah beberapa langkah yang dapat diambil untuk memulai dengan pengujian perangkat lunak:
+  Membuat rencana pengujian, Membuat skenario pengujian, Menyiapkan lingkungan pengujian, Melakukan pengujian, Menganalisis hasil pengujian, Menerapkan perbaikan.
