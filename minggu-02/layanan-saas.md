@@ -20,7 +20,7 @@ Google Drive adalah salah satu layanan dari Google yang memiliki fungsi sebagai 
 
 Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data yang sangat mudah digunakan kita tidak perlu repot membawa habis ataupun flash disk, terutama karena adanya potensi alat tersebut hilang atau terkena virus. Selain itu beberapa orang juga merasa bahwa data data penting mereka seringkali tercecer ataupun hilang, terutama data penting lagi ijazah dan lain sebagainya. kita bisa memfoto atau melakukan scanning pada dokumen tersebut dan menyimpannya selama email kita aktif. Maka data yang ada di Google Drive itu bisa diakses kapanpun dan dimanapun dengan waktu yang tidak terbatas.
 
-## Versi Non Cloudnya ialah Windows Explorer
+## Versi Non Cloudnya yaitu Windows Explorer
 
 ![gd](fe.jpg)
 
@@ -73,9 +73,9 @@ Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data ya
 8. Share dan Download
     * Fitur share untuk membagikan poster yang baru saja dibuat, dan di saat bersamaan Canva juga akan mengunduh poster ke memori lokal. Seperti di banyak layanan, Anda dapat membagikan poster ke berbagai layanan pihak ketiga.
 
-## Versi Non Cloudnya ialah Corel Draw
+## Versi Non Cloudnya yaitu Corel Draw
 
-![cd](cd.jpg)
+![cd](cdr.jpg)
 
 **Corel Draw** adalah editor grafik vektor, ia mempunyai beberapa versi mulai dari versi 1 sampai yang terbaru adalah CorelDraw Graphics suite 2019 atau X9 yang versi full version aslinya dibanderol $699 atau sekitar 9,5 jutaan. 
 
