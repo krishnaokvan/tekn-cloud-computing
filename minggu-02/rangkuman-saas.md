@@ -30,6 +30,7 @@ Terdapat 2 versi utama pada SaaS yaitu :
     * Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
 Ilustrasi SaaS Vertical & Horizontal
+
 ![alt text](vevsho-saas.jpg?raw=true)
 
 **Manfaat SAAS:** <br>
@@ -39,31 +40,33 @@ Ilustrasi SaaS Vertical & Horizontal
  Perusahaan sebaiknya mempertimbangkan fleksibilitas dan implikasi manajemen risiko dalam menambahkan SaaS ke portofolio layanan TI mereka. Integrasi dan komposisi adalah komponen penting dalam strategi arsitektur Anda untuk menggabungkan SaaS dengan sukses sebagai anggota yang berpartisipasi penuh dari infrastruktur TI Anda yang berfokus pada layanan. Kami percaya bahwa masa depan komputasi perusahaan tidak akan murni di tempat. Sebaliknya, mereka akan ada dalam harmoni simbiosis.
  ***
  ## 3. SaaS (Software as a Service) Platform itecture
- **Fitur dan Manfaat Utama dari Platform SaaS**
+ **Fiture dan Manfaat Utama dari Platform SaaS**
  1. Kesederhanaan
     * Aplikasi perangkat lunak yang dirancang sebagai solusi SaaS biasanya diakses melalui web melalui berbagai jenis perangkat. Kemajuan dalam bahasa pemrograman sisi klien seperti JavaScript telah menghasilkan antarmuka web yang lebih intuitif dan dengan demikian, membuat penggunaan aplikasi yang dikirim melalui internet mudah digunakan seperti rekan-rekan desktop mereka.
 
  2. Ekonomis
-    * Model pembayaran biaya subskrip bulanan atau tahunan memudahkan bisnis untuk menganggarkan dana, ditambah dengan biaya pemasangan infrastruktur nol, mudah untuk melihat bagaimana memilih menggunakan solusi SaaS dapat menghemat uang bisnis.
+    * Model pembayaran biaya subskrip bulanan atau tahunan memudahkan bisnis untuk menganggarkan dana, ditambah dengan biaya pemasangan infrastruktur nol,dan  mudah untuk melihat bagaimana memilih menggunakan solusi SaaS dapat menghemat uang bisnis.
 
  3. Keamanan
     * Keamanan adalah aspek penting dari solusi pengembangan perangkat lunak dan platform SaaS tidak berbeda. Sebagai konsumen aplikasi yang dirancang menggunakan SaaS, kita tidak perlu khawatir dengan bagaimana data kita dikunci. Itu dipegang dengan aman di cloud!
 
  4. Kesesuaian
     * Dengan penginstalan perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama benar dalam perusahaan. Selain itu, perbedaan versi antara anggota tim dari tenaga kerja kita dapat menyebabkan masalah kompatibilitas dan bahkan lebih banyak waktu terbuang. Namun, dengan SaaS, pelanggan dapat log-on ke layanan yang sudah ditingkatkan.
+    
+ 5. Kemudahan Penggunaan
+    * Platform SaaS sering memiliki antarmuka yang mudah digunakan dan intuitif, yang memungkinkan pengguna untuk dengan cepat mempelajari dan menggunakan aplikasi.
 
 **Kemampuan Solusi SaaS**
 
 Platform SaaS memiliki beragam kemampuan. Terutama ketika digabungkan dengan penawaran cloud lainnya seperti IaaS (Infrastructure as a Service) dan PaaS (Platform as a Service).
 Teknologi cloud seperti Microsoft Azure memungkinkan kita menyediakan server yang dapat meng-host situs web, database, dan banyak lagi. Infrastruktur yang secara historis akan secara fisik dipasang di lokasi bisnis dan dijalankan oleh tim TI internal, sekarang dapat disediakan dari dasbor online hanya dengan beberapa klik mouse. Solusi SaaS dapat digunakan untuk lingkungan ini dan, secara teori, menawarkan semua jenis layanan yang dapat dikembangkan sebagai aplikasi perangkat lunak yang dapat mencakup, tetapi tidak terbatas pada:
-* Aplikasi kantor
 * Email dan pesan instan
-* Media sosial
-* Mengekspos 3 rd  API Partai
+* Media sosial (Social Media)
+* Mengekspose 3rd  API Partai
 * Keamanan dan otentikasi
-* Pembelajaran mesin
+* Pembelajaran mesin 
 * Kecerdasan buatan
-* Layanan Lokasi
+* Layanan Lokasi (GPS)
 * Streaming data dan layanan pencarian
 
 Ilustrasi Kemampuan Solusi SaaS
@@ -74,7 +77,7 @@ Ilustrasi Kemampuan Solusi SaaS
 
 ![rugi](rugi.jpg)
 
-Kerugian dari plaform SaaS diantaranya adalah :
+Kerugian dari plaform SaaS diantaranya yaitu :
 1. Kurang kontrol
 
    Karena aplikasi SaaS di-host di server web vendor, kita memiliki sedikit atau tidak ada kontrol atas perangkat lunak yang kita gunakan. Aplikasi internal atau internal akan memberikan bisnis kita kontrol lebih besar atas perilakunya, misalnya, aplikasi berbasis Windows mungkin memiliki lebih banyak opsi konfigurasi daripada aplikasi web biasa yang dikirim sebagai aplikasi SaaS.
