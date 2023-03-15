@@ -1,6 +1,6 @@
 # Link Hasil Praktikum
 
-[1. rangkuman](rangkuman-saas.md)
+[1. Rangkuman](rangkuman-saas.md)
 
-[2. layanan](layanan-saas.md)
+[2. Layanan](layanan-saas.md)
 
