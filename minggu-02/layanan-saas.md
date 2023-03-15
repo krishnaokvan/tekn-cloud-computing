@@ -1,4 +1,4 @@
-# Praktikum Teknologi Cloud Computing - Minggu 2 Latihan no 2 & Tugas
+# Praktikum Teknologi Cloud Computing - Minggu-02 Latihan no 2 dan Tugas
 
 
 ## 1. Google Drive
