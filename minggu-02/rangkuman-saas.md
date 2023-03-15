@@ -57,7 +57,7 @@ Ilustrasi SaaS Vertical & Horizontal
 
 **Kemampuan Solusi SaaS**
 
-Platform SaaS memiliki beragam kemampuan. Terutama ketika digabungkan dengan penawaran cloud lainnya seperti IaaS (Infrastructure as a Service) dan PaaS (Platform as a Service).
+Platform SaaS memiliki beragam kemampuan. Terutama ketika digabungkan dengan penawaran cloud lainnya seperti IaaS (Infrastructure as a Service) dan PaaS (Platform as a Service), SaaS memberikan akses dan penggunaan aplikasi dan layanan melalui internet secara fleksibel dan terukur.
 Teknologi cloud seperti Microsoft Azure memungkinkan kita menyediakan server yang dapat meng-host situs web, database, dan banyak lagi. Infrastruktur yang secara historis akan secara fisik dipasang di lokasi bisnis dan dijalankan oleh tim TI internal, sekarang dapat disediakan dari dasbor online hanya dengan beberapa klik mouse. Solusi SaaS dapat digunakan untuk lingkungan ini dan, secara teori, menawarkan semua jenis layanan yang dapat dikembangkan sebagai aplikasi perangkat lunak yang dapat mencakup, tetapi tidak terbatas pada:
 * Email dan pesan instan
 * Media sosial (Social Media)
