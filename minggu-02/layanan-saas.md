@@ -81,17 +81,17 @@ Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data ya
 
 **Fungsi Corel Draw**
 
-1. Membuat Desain Logo
-    * Bisa dibilang, fungsi Corel Draw yang paling banyak digunakan adalah untuk membuat desain logo. Pada umumnya, logo yang dibuat berbentuk dua dimensi dengan variasi warna dan bentuk. Alasan pengguna lebih memilih Corel Draw untuk membuat logo dibandingkan dengan program lain adalah karena mudah untuk memanipulasi garis demi menghasilkan bentuk logo sesuai keinginan.
+1. Membuat Desain Gambar Vector
+    * Membuat dan mengedit gambar vektor: CorelDRAW digunakan untuk membuat gambar vektor, yaitu gambar yang terdiri dari objek geometris seperti garis, kurva, dan bentuk geometris lainnya. Objek vektor dapat dimodifikasi, diputar, dipindahkan, dan diatur ulang sesuai kebutuhan.
 
-2. Membuat Desain Brosur dan Undangan
-    * Ada banyak sekali pilihan font yang menarik, sehingga desainer bisa mendapatkan banyak alternatif font sesuai dengan kebutuhan. Font tersebut juga bisa dengan mudah digabungkan dengan gambar.
+2. Membuat Desain Layout Halaman
+    * CorelDRAW digunakan untuk membuat desain layout halaman untuk publikasi seperti brosur, pamflet, majalah, atau buku. Fungsi ini memungkinkan pengguna untuk mengatur teks, gambar, dan element desain lainnya dalam susunan yang menarik dan mudah dibaca.
 
-3. Membuat Desain Sampul Buku
-    * Program ini memudahkan dalam melakukan teknik pewarnaan yang lebih sempurna dan detail gambar menjadi lebih jelas.
+3. Konversi Gambar Bitmmap
+    * CorelDRAW juga dapat digunakan untuk mengedit gambar bitmap seperti foto atau gambar digital lainnya. Fungsi ini memungkinkan pengguna untuk melakukan koreksi warna, menghilangkan efek merah mata, dan memodifikasi gambar lainnya.
 
-4. Membuat Ilustrasi
+4. Membuat Ilustrasi 
     * Program ini dianggap lebih praktis dan bisa diandalkan. Pembuatan lengkungan dan garis dalam Corel Draw juga lebih akurat dibandingkan dengan program lainnya.
 
-5. Membuat Kartun
-    * Corel Draw bisa digunakan untuk membuat desain kartun, terutama untuk karakter animasi 2D.
+5. Membuat desain produk
+    * Para pelaku ekonomi digital selalu membutuhkan desain kemasan untuk membuat branding produk. Salah satu cara yang dipakai desainer grafis, yaitu membuat desain produk. Dengan bantuan fitur shape, font, layout garis, ruler, warna, importing gambar, serta dukungan fitur lain, membuat CorelDraw mudah digunakan untuk mendesain kemasan produk maupun branding.
