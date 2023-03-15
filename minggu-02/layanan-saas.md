@@ -43,7 +43,7 @@ Aplikasi Google Drive ini terkenal sebagai salah satu aplikasi penyimpan data ya
 
 ## 2. Canva
 
-![can](can.jpg)
+![can](canva.jpg)
 
 **Canva** adalah aplikasi desain grafis menjembatani penggunanya untuk dengan mudah merancang berbagai jenis material kreatif secara online. Mulai dari mendesain kartu ucapan, poster, brosur, infografik, hingga presentasi. Canva saat ini tersedia dalam beberapa versi, web,iPhone, dan Android.
 
