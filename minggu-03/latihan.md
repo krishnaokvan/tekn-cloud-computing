@@ -1,8 +1,8 @@
 # Deploy Some Code - Quick Start - Deploy to Cyclic
 
-1. Klik [link ini](https://docs.cyclic.sh/) lalu scoll sampai menemukan **Quick Start** dan klik ```Deploy To Cyclic```
+1. Klik [disni](https://docs.cyclic.sh/) lalu klik pada **Quick Start** selanjutnya klik ```Deploy To Cyclic```
     
-    ![01](f3/0.jpg)
+    ![01](p3/1.jpg)
 
 2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
 
