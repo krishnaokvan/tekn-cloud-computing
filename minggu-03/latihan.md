@@ -6,29 +6,29 @@
 
 2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
 
-    ![02](f3/1.png)
+    ![02](p3/2.jpg)
     
 3. Berikan izin untuk bergabung dengan Cyclic
 
-    ![03](f3/2.png)
+    ![03](p3/3.jpg)
     
 4.  Masukkan password akses ke git anda
 
-    ![04](f3/3.png)
+    ![04](p3/4.jpg)
     
 5.  Akan connect cycluc ke repository express-hello-world, lalu klik **Connect**
 
-    ![05](f3/4.png)
+    ![05](p3/5.jpg)
   
 6.  Lalu akan ke tampilan approve & install Cyclic,sh, klik Approve & Install
 
-    ![06](f3/5.png)
+    ![06](p3/6.jpg)
     
 7.  Build dan Deploying aplikasi akan berjalan pada repository express-hello-world, jika berhasil akan muncul tampilan **"You're Live!"**
 
-     ![07](f3/6.png)
+     ![07](p3/7.jpg)
  
  8.  Ketika sudah berhasil, cobalah membuka URL yang disediakan setelah proses build dan deploy selesai
 
-     ![08](f3/6.1.png)
+     ![08](p3/8.jpg)
 
