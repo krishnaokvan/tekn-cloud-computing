@@ -4,7 +4,7 @@
 
 2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
 
-    ![l3](l3/1.png)
+    ![l3](l3/1.jpg)
     
 3. Berikan izin untuk bergabung dengan Cyclic
 
