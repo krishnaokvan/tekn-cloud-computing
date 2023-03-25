@@ -8,7 +8,7 @@
     
 3. Berikan izin untuk bergabung dengan Cyclic
 
-    ![03](f3/2.png)
+    ![l3](l3/2.jpg)
     
 4. Membuat file package.json dan package-lock.json dengan cara
     
