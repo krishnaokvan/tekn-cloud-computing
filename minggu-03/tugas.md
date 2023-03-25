@@ -11,37 +11,54 @@
     ![l3](l3/2.jpg)
 - Mengkoneksikan serta hasi logs nya, sbb : 
     ![l3](l3/3.jpg)
+- Langkah selanjutnya, menuju ke dasbord awesome-project : 
+    ![l3](l3/4.jpg)
     
-4. Membuat file package.json dan package-lock.json dengan cara
+    ![l3](l3/5.jpg)
     
-    -   ```npm init y``` untuk membuat file package.json
-        
-        ![04](f3/11.png)
-    
-    -   ```npm i express mongoose dotenv``` untuk membuat file package-lock.json
+4. Buat files package.json dan package-lock.json 
+NB : jika belum install npm maka anda install terlebih dahulu 
+** NPM : https://nodejs.org/en
+    ![l3](l3/npm.jpg)
 
-        ![05](f3/12.png)
-        
-        
-5. Membuat file index.js untuk mendapatkan tampilan web yang akan dibangun
+** Konfigurasi pada cmd
+    ![l3](l3/cmd.jpg)
 
-   ![06](f3/13.png)
+    -   ```npm init y``` perintah untuk membuat file package.json
+        
+        ![l3](l3/8.jpg)
+    
+    -   ```npm i express mongoose dotenv``` perintah untuk membuat file package-lock.json
+
+        ![l3](l3/9.jpg)
+        
+        
+5. Buat file script index.js untuk mendapatkan tampilan web 
+
+   ![l3](l3/10.jpg)
+     
+- Script Package.json
+    ![l3](l3/11.jpg)
+    
+    
+6. Langkah selanjutnya, Push master kedalam repository git
+- git add. untuk menambahkan repo
+   ![l3](l3/12.jpg)
    
-6. Jika semua file yang sudah dibutuhkan sudah lengkap maka push kedalam repository git
+- lalu git commit utk menyimpan apabila ada perubahan
+   ![l3](l3/13.jpg)
 
-   ![07](f3/14.png)
+- git push untuk mentrasfer files
+   ![l3](l3/14.jpg)
    
-7. Kemudian kembali ke website cyclic. pada dashboard akan ditampilkan pilihan **Starter Tamplate** dan **Link Your Own**. Pilih yang **Link Your Own** dan pilihlah salah satu repository yang sudah memiliki file json. Disini akan menggunakan repository **awsome-project**.
+7. Lalu ke website cyclic. di dashboard akan menampilkan pilihan **Starter Tamplate** dan **Link Your Own**. Pilih yang **Link Your Own** dan pilihlah salah satu repository yang sudah memiliki file json. Disini akan menggunakan repository **awsome-project**.
 
-    ![08](f3/7.png)    
+    ![l3](l3/15.jpg)    
 
-8.  Masukkan password akses ke git anda
-
-    ![09](f3/3.png)
     
-9.  Akan ditampilkan pilihan 
+8.  Mengkoneksikan Cyclic ke Awesome-project, sbb:
 
-    ![010](f3/4.png)
+    ![l3](l3/16.jpg)    
   
 10. Lalu akan ke tampilan approve & install Cyclic,sh, klik Approve & Install
 
