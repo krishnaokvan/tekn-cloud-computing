@@ -66,6 +66,6 @@ NB : jika belum install npm maka anda install terlebih dahulu
     ![l3](l3/16.jpg)    
      
  - Berikut tes app dengan link yang sudah disediakan
+    ![sshasil](https://user-images.githubusercontent.com/115064323/227726194-7b7d6d30-5837-4732-8bef-c12cbbdcc3a2.jpeg)
 
-      ![03](f3/15.png)
 
