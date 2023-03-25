@@ -39,6 +39,7 @@ NB : jika belum install npm maka anda install terlebih dahulu
    ![l3](l3/10.jpg)
      
 - Script Package.json
+
     ![l3](l3/11.jpg)
     
     
@@ -63,16 +64,8 @@ NB : jika belum install npm maka anda install terlebih dahulu
 8.  Mengkoneksikan Cyclic ke Awesome-project, sbb:
 
     ![l3](l3/16.jpg)    
-  
-10. Lalu akan ke tampilan approve & install Cyclic,sh, klik Approve & Install
-
-    ![11](f3/9.png)
-    
- 11. Pembuatan untuk membentuk dan deploying berlangsung. Tunggu hingga proses selesai
-
-     ![12](f3/10.1.png)
      
- 12. Ujilah aplikasi dengan link yang sudah disediakan
+ - Berikut tes app dengan link yang sudah disediakan
 
       ![03](f3/15.png)
 
