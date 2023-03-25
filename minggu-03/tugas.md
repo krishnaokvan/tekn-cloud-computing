@@ -1,10 +1,10 @@
 # Deploy Some Code - DIY
 
-1. Klik [link ini](https://docs.cyclic.sh/) lalu scoll sampai menemukan **DIY** link : https://app.cyclic.sh/api/login
+1. Buka [link ini](https://docs.cyclic.sh/) lalu scoll sampai anda menemukan **DIY** link >> https://app.cyclic.sh/api/login
 
 2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
 
-    ![02](f3/1.png)
+    ![l3](l3/1.png)
     
 3. Berikan izin untuk bergabung dengan Cyclic
 
