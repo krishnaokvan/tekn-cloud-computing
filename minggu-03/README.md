@@ -4,6 +4,6 @@
 
 [2. Tugas-03](tugas.md)
 
-- P3 = Screenshoot hasil Tugas
+- P3 = Screenshoot hasil Latihan
 
-- L3 = Screenshoot hasil Latihan
+- L3 = Screenshoot hasil Tugas
