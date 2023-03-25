@@ -26,13 +26,12 @@ NB : jika belum install npm maka anda install terlebih dahulu
 ** Konfigurasi pada cmd
     ![l3](l3/cmd.jpg)
 
--   ```npm init y``` perintah untuk membuat file package.json
-        
-        ![l3](l3/8.jpg)
+```npm init y``` perintah untuk membuat file package.json
+![l3](l3/8.jpg)
 
--   ```npm i express mongoose dotenv``` perintah untuk membuat file package-lock.json
 
-        ![l3](l3/9.jpg)
+ ```npm i express mongoose dotenv``` perintah untuk membuat file package-lock.json
+![l3](l3/9.jpg)
         
         
 5. Buat file script index.js untuk mendapatkan tampilan web 
@@ -44,8 +43,11 @@ NB : jika belum install npm maka anda install terlebih dahulu
     
     
 6. Langkah selanjutnya, Push master kedalam repository git
+
 - git add. untuk menambahkan repo
+
    ![l3](l3/12.jpg)
+   
    
 - lalu git commit utk menyimpan apabila ada perubahan
    ![l3](l3/13.jpg)
