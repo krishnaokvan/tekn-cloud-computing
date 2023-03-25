@@ -9,6 +9,8 @@
 3. Berikan izin untuk bergabung dengan Cyclic
 
     ![l3](l3/2.jpg)
+- Mengkoneksikan serta hasi logs nya, sbb : 
+    ![l3](l3/3.jpg)
     
 4. Membuat file package.json dan package-lock.json dengan cara
     
