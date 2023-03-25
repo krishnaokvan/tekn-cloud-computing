@@ -9,8 +9,10 @@
 3. Berikan izin untuk bergabung dengan Cyclic
 
     ![l3](l3/2.jpg)
+    
 - Mengkoneksikan serta hasi logs nya, sbb : 
     ![l3](l3/3.jpg)
+    
 - Langkah selanjutnya, menuju ke dasbord awesome-project : 
     ![l3](l3/4.jpg)
     
@@ -24,11 +26,11 @@ NB : jika belum install npm maka anda install terlebih dahulu
 ** Konfigurasi pada cmd
     ![l3](l3/cmd.jpg)
 
-    -   ```npm init y``` perintah untuk membuat file package.json
+-   ```npm init y``` perintah untuk membuat file package.json
         
         ![l3](l3/8.jpg)
-    
-    -   ```npm i express mongoose dotenv``` perintah untuk membuat file package-lock.json
+
+-   ```npm i express mongoose dotenv``` perintah untuk membuat file package-lock.json
 
         ![l3](l3/9.jpg)
         
