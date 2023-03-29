@@ -2,6 +2,8 @@
 
 1. Buka [link ini](https://docs.cyclic.sh/) lalu scoll sampai anda menemukan **DIY** link >> https://app.cyclic.sh/api/login
 
+![02](p3/2.jpg)
+
 - klik tampilan approve & installasi Cyclic.sh, klik Approve & Install
 
     ![06](p3/6.jpg)
