@@ -2,6 +2,10 @@
 
 1. Buka [link ini](https://docs.cyclic.sh/) lalu scoll sampai anda menemukan **DIY** link >> https://app.cyclic.sh/api/login
 
+- klik tampilan approve & installasi Cyclic.sh, klik Approve & Install
+
+    ![06](p3/6.jpg)
+
 2. Akan direct ke akun cyclic dan diminta untuk Continue with GutHub
 
     ![l3](l3/1.jpg)
