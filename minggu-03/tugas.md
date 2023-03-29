@@ -25,7 +25,9 @@
     ![l3](l3/5.jpg)
     
 4. Buat files package.json dan package-lock.json 
+
 NB : jika belum install npm maka anda install terlebih dahulu 
+
 ** NPM : https://nodejs.org/en
     ![l3](l3/npm.jpg)
 
