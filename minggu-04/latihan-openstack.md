@@ -8,7 +8,7 @@ osboxes@krishnaokvan:~$ sudo apt -y dist-upgrade
 osboxes@krishnaokvan:~$ sudo reboot
 ```
 Hasilnya sbb :
-
+![01](ss/1.jpg)
 
 
 
