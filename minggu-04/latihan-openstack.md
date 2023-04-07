@@ -39,6 +39,16 @@ Create a local.conf file with 4 passwords and Host IP address.
 ```bash
 stack@krishnaokvan:~$ cd devstack
 stack@krishnaokvan:~/devstack$ nano local.conf
+[[local|localrc]]
+
+# Password for KeyStone, Database, RabbitMQ and Service
+ADMIN_PASSWORD=StrongAdminSecret
+DATABASE_PASSWORD=$ADMIN_PASSWORD
+RABBIT_PASSWORD=$ADMIN_PASSWORD
+SERVICE_PASSWORD=$ADMIN_PASSWORD
+
+# Host IP - get your Server/VM IP address from ip addr command
+HOST_IP=10.0.2.255
 ```
 ![01](ss/host_ip.jpg)
 
