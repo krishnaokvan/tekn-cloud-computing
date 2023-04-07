@@ -28,7 +28,7 @@ Switch to stack user, test the internet connection and check version of Python.
 osboxes@krishnaokvan:~$ sudo su - stack
 stack@krishnaokvan:~$ 
 ```
-[01](ss/2.jpg)
+![01](ss/2.jpg)
 
 ### Step 3: Download DevStack
 Clone Destack deployment code from Github.
@@ -36,9 +36,9 @@ Clone Destack deployment code from Github.
 stack@krishnaokvan:~$ sudo - get install gitt
 stack@krishnaokvan:~$ git clone https://git.openstack.org/openstack-dev/devstack
 ```
-[01](ss/sudo-gitclone.jpg)
+![01](ss/sudo-gitclone.jpg)
 
-[01](ss/gitclone.jpg)
+![01](ss/gitclone.jpg)
 
 Create a local.conf file with 4 passwords and Host IP address.
 ```bash
