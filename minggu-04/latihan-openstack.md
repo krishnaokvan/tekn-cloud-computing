@@ -38,6 +38,8 @@ stack@krishnaokvan:~$ git clone https://git.openstack.org/openstack-dev/devstack
 ```
 [01](ss/sudo-gitclone.jpg)
 
+[01](ss/gitclone.jpg)
+
 Create a local.conf file with 4 passwords and Host IP address.
 ```bash
 stack@krishnaokvan:~$ cd devstack
