@@ -56,4 +56,4 @@ Keystone is serving at http://10.0.2.15/identity/
 The default users are: admin and demo
 The password: StrongAdminSecret
 ```
-![3](gambar/devstack-installation(3).jpg)
+![3](ss/devstack-dashboard.jpg)
