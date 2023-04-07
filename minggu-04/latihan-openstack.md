@@ -60,10 +60,10 @@ stack@krishnaokvan:~/devstack$ FORCE=yes ./stack.sh
 DevStack will install;
 This will take a 15 – 20 minutes, largely depending on the speed of your internet connection. At the end of the installation process, you should see output like this:
 ```bash
-This is your host IP address: 10.0.2.15
+This is your host IP address: 10.0.2.255
 This is your host IPv6 address: 2401:ee00:1040:100:2c8d:5afa:b7e:c0a0
-Horizon is now available at http://10.0.2.15/dashboard
-Keystone is serving at http://10.0.2.15/identity/
+Horizon is now available at http://10.0.2.255/dashboard
+Keystone is serving at http://10.0.2.255/identity/
 
 The default users are: admin and demo
 The password: StrongAdminSecret
