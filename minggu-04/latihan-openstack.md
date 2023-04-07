@@ -33,8 +33,11 @@ stack@krishnaokvan:~$
 ### Step 3: Download DevStack
 Clone Destack deployment code from Github.
 ```bash
+stack@krishnaokvan:~$ sudo - get install gitt
 stack@krishnaokvan:~$ git clone https://git.openstack.org/openstack-dev/devstack
 ```
+[01](ss/sudo-gitclone.jpg)
+
 Create a local.conf file with 4 passwords and Host IP address.
 ```bash
 stack@krishnaokvan:~$ cd devstack
