@@ -28,7 +28,8 @@ Switch to stack user, test the internet connection and check version of Python.
 osboxes@krishnaokvan:~$ sudo su - stack
 stack@krishnaokvan:~$ 
 ```
-![1](gambar/devstack-installation(1).jpg)
+![1]![01](ss/2.jpg)
+
 ### Step 3: Download DevStack
 Clone Destack deployment code from Github.
 ```bash
