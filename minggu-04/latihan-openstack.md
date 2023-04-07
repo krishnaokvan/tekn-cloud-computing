@@ -40,7 +40,7 @@ Create a local.conf file with 4 passwords and Host IP address.
 stack@krishnaokvan:~$ cd devstack
 stack@krishnaokvan:~/devstack$ nano local.conf
 ```
-![2](gambar/devstack-installation(2).jpg)
+![01](ss/host_ip.jpg)
 ### Step 4: Start Openstack Deployment on Ubuntu 18.04 with DevStack
 Now that you’ve configured the minimum required config to get started with DevStack, start the installation of Openstack.
 ```bash
