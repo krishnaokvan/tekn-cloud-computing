@@ -14,7 +14,7 @@ Hasilnya sbb :
 
 
 ### Step 2: Add Stack User
-For other installations of Ubuntu 18.04, run the commands below to create DevStack deployment user.
+For other installations of Ubuntu 22.04, run the commands below to create DevStack deployment user.
 ```bash
 osboxes@krishnaokvan:~$ sudo useradd -s /bin/bash -d /opt/stack -m stack
 ```
