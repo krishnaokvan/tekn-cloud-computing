@@ -4,10 +4,10 @@
 ### Akses Web Demo E-Commerce
 Untuk demo dapat diakses melalui URL berikut, [demo](https://demo-stable.ofbiz.apache.org/ecommerce/control/main)<br>
 Kemudian login dengan menggunakan, user/password: admin/ofbiz<br>
-![1](gambar/tugas1.jpg)<br><br>
+![1](gambar/tgs1.jpg)<br><br>
 ### Pilih Product dan Add to Cart
 Disini saya memilih produk yaitu Configurable PC,<br>
-![2](gambar/demo/demo-ecommerce_2.jpg)<br><br>
+![2](gambar/tgs2.jpg)<br><br>
 Pilih konfigurasi sesuai kebutuhan kemudian klik Add to Cart,<br>
 ![3](gambar/demo/demo-ecommerce_3.jpg)<br><br>
 Produk yang sudah di-Add akan masuk ke Cart,<br>
