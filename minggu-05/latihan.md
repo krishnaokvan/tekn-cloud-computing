@@ -3,23 +3,25 @@
 ### Install Packet yang dibutuhkan
 Install paket Java dan Gradle
 ```bash
-krishnaokvan@ubuntu:~$ sudo apt-get install apt-transport-https ca-certificates wget dirmngr gnupg software-properties-common unzip -y
-krishnaokvan@ubuntu:~$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8AC3B29174885C03
-krishnaokvan@ubuntu:~$ sudo add-apt-repository --yes https://adoptopenjdk.jfrog.io/adoptopenjdk/deb/
+krishnaokvan@ubuntu:~$ sudo apt update
+krishnaokvan@ubuntu:~$ sudo apt install openjdk-8-jdk openjdk-8-jre
 krishnaokvan@ubuntu:~$ sudo apt-get install adoptopenjdk-8-hotspot -y
 krishnaokvan@ubuntu:~$ sudo apt-get install gradle
+krishnaokvan@ubuntu:~$ java -version
+krishnaokvan@ubuntu:~$ gradle -version
 ```
 
 Setelah itu cek apakah sudah terinstall dengan baik.<br>
-![1](gambar/instalasi/Installation_1.jpg)<br>
+![1](gambar/java-version.jpg)<br>
+![1](gambar/gradle-version.jpg)<br>
 
 ### Instalasi OFBiz
 Download OFBiz, kemudian extract file yang telah didownload.
 ```bash
-krishnaokvan@ubuntu:~$ wget https://archive.apache.org/dist/ofbiz/apache-ofbiz-16.11.05.zip
-krishnaokvan@ubuntu:~$ unzip apache-ofbiz-16.11.05
-krishnaokvan@ubuntu:~$ cd apache-ofbiz-16.11.05
-krishnaokvan@ubuntu:~/apache-ofbiz-16.11.05$ sudo ./gradlew cleanAll loadDefault
+krishnaokvan@ubuntu:~$ wget https://https://downloads.apache.org/ofbiz/apache-ofbiz-18.12.07.zip
+krishnaokvan@ubuntu:~$ unzip apache-ofbiz-18.12.07
+krishnaokvan@ubuntu:~$ cd apache-ofbiz-18.12.07
+krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew cleanAll loadDefault
 ```
 
 Tunggu sampai proses instalasi selesai.<br>
@@ -28,9 +30,9 @@ Tunggu sampai proses instalasi selesai.<br>
 ### Akses OFBiz 
 Jalankan service OFBiz, kemudian akses melalui browser. 
 ```bash
-krishnaokvan@ubuntu:~/apache-ofbiz-16.11.05$ sudo ./gradlew "ofbiz --load-data readers=seed"
-krishnaokvan@ubuntu:~/apache-ofbiz-16.11.05$ sudo ./gradlew "ofbiz --load-data readers=seed,seed-initial,ext"
-krishnaokvan@ubuntu:~/apache-ofbiz-16.11.05$ sudo ./gradlew ofbiz
+krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew "ofbiz --load-data readers=seed"
+krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew "ofbiz --load-data readers=seed,seed-initial,ext"
+krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew ofbiz
 ```
 
 Untuk login, user/password: admin/ofbiz<br>
