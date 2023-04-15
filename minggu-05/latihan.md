@@ -13,6 +13,7 @@ krishnaokvan@ubuntu:~$ gradle -version
 
 Setelah itu cek apakah sudah terinstall dengan baik.<br>
 ![1](gambar/java-version.jpg)<br>
+
 ![1](gambar/gradle-version.jpg)<br>
 
 ### Instalasi OFBiz
@@ -30,10 +31,9 @@ Tunggu sampai proses instalasi selesai.<br>
 ### Akses OFBiz 
 Jalankan service OFBiz, kemudian akses melalui browser. 
 ```bash
-krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew "ofbiz --load-data readers=seed"
-krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew "ofbiz --load-data readers=seed,seed-initial,ext"
-krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew ofbiz
+krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ ./gradlew cleanAll "ofbiz --load-data readers=seed,seed-initial" loadAdminUserLogin -PuserLoginId=admin 
 ```
+![1](gambar/steep4.jpg)<br>
 
 Untuk login, user/password: admin/ofbiz<br>
 Default dashboard: https://SERVER_IP:8443/ordermgr/control/main<br>
