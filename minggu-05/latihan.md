@@ -46,4 +46,4 @@ WebTools: https://localhostP:8443/webtools<br>
 
 ![1](gambar/ofbiz.jpg)<br>
 
-![1](gambar/ofbiz1.jpg)<br>
+![1](gambar/ofbiz2.jpg)<br>
