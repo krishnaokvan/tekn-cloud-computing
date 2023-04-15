@@ -22,7 +22,7 @@ Download OFBiz, kemudian extract file yang telah didownload.
 krishnaokvan@ubuntu:~$ wget https://https://downloads.apache.org/ofbiz/apache-ofbiz-18.12.07.zip
 krishnaokvan@ubuntu:~$ unzip apache-ofbiz-18.12.07
 krishnaokvan@ubuntu:~$ cd apache-ofbiz-18.12.07
-krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew cleanAll loadDefault
+krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew cleanAll loadAll
 ```
 
 Tunggu sampai proses instalasi selesai.<br>
@@ -40,8 +40,3 @@ Default dashboard: https://SERVER_IP:8443/ordermgr/control/main<br>
 Catalog Manager: https://SERVER_IP:8443/catalog<br>
 E-Commerce: https://SERVER_IP:8443/ecommerce<br>
 WebTools: https://SERVER_IP:8443/webtools<br>
-
-![3](gambar/instalasi/AksesOfbiz_1.jpg)<br>
-![4](gambar/instalasi/AksesOfbiz_2.jpg)<br><br>
-![5](gambar/instalasi/AksesOfbiz_3.jpg)<br>
-![6](gambar/instalasi/AksesOfbiz_4.jpg)<br>
