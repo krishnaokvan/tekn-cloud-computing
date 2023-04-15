@@ -12,7 +12,7 @@ krishnaokvan@ubuntu:~$ java -version
 krishnaokvan@ubuntu:~$ gradle -version
 ```
 
-Setelah itu cek apakah sudah terinstall dengan baik.<br>
+Setelah itu cek apakah sudah terinstall pada device anda/pada os linux ubuntu v18.<br>
 ![1](gambar/java-version.jpg)<br>
 
 ![1](gambar/gradle-version.jpg)<br>
