@@ -15,21 +15,21 @@ Produk yang sudah di-Add akan masuk ke Cart,<br>
 ![4](gambar/tgs4-1.jpg)<br><br>
 ### Proses Check Out
 Klik View Cart, Centang produk kemudian klik Check Out,<br>
-![5](gambar/demo/tgs5.jpg)<br><br>
+![5](gambar/tgs5.jpg)<br><br>
 Klik New Address untuk menambah alamat baru tujuan pengiriman,<br>
-![6](gambar/demo/tgs6.jpg)<br><br>
+![6](gambar/tgs6.jpg)<br><br>
 Isikan alamat, disini Saya memasukan alamat khusus Demo, lalu klik Save,<br>
-![7](gambar/demo/tgs7.jpg)<br><br>
+![7](gambar/tgs7.jpg)<br><br>
 Klik kembali View Cart, centang produk, lalu Check Out,<br>
-![8](gambar/demo/tgs5.jpg)<br><br>
+![8](gambar/tgs5.jpg)<br><br>
 Alamat yang sebelumnya dimasukan sudah muncul, lalu klik Next,<br>
-![9](gambar/demo/tgs8.jpg)<br><br>
+![9](gambar/tgs8.jpg)<br><br>
 Pilih jasa pengiriman, lalu masukan alamat email untuk konfirmasi dan klik Next,<br>
-![10](gambar/demo/tgs9.jpg)<br><br>
+![10](gambar/tgs9.jpg)<br><br>
 Pilih metode pembayaran, lalu klik Continue to Final Order Review,<br>
-![11](gambar/demo/tgs10.jpg)<br><br>
+![11](gambar/tgs10.jpg)<br><br>
 Pastikan detail sudah sesuai, lalu klik Submit Order,<br>
-![12](gambar/demo/tgs11.jpg)<br><br>
+![12](gambar/tgs11.jpg)<br><br>
 ### Order Confirmation
 Akan muncul Order Confirmation, maka tandanya order sudah berhasil,<br>
-![13](gambar/demo/tgs12.jpg)<br><br>
+![13](gambar/tgs12.jpg)<br><br>
