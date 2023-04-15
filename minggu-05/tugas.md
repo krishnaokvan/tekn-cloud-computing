@@ -32,4 +32,4 @@ Pastikan detail sudah sesuai, lalu klik Submit Order,<br>
 ![12](gambar/tgs11.jpg)<br><br>
 ### Order Confirmation
 Akan muncul Order Confirmation, maka tandanya order sudah berhasil,<br>
-![13](gambar/tgs12.jpg)<br><br>
+![13](gambar/tgs12-done.jpg)<br><br>
