@@ -36,8 +36,14 @@ krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ ./gradlew cleanAll "ofbiz --load-da
 ```
 ![1](gambar/steep4.jpg)<br>
 
+Setelah menginstal Apache OFBiz, Gunakan perintah berikut untuk memulai layanan Apache OFBiz di sistem.
+
 Untuk login, user/password: admin/ofbiz<br>
-Default dashboard: https://SERVER_IP:8443/ordermgr/control/main<br>
-Catalog Manager: https://SERVER_IP:8443/catalog<br>
-E-Commerce: https://SERVER_IP:8443/ecommerce<br>
-WebTools: https://SERVER_IP:8443/webtools<br>
+Default dashboard: https://localhost:8443/ordermgr/control/main<br>
+Catalog Manager: https://localhost:8443/catalog<br>
+E-Commerce: https://localhost:8443/ecommerce<br>
+WebTools: https://localhostP:8443/webtools<br>
+
+![1](gambar/ofbiz.jpg)<br>
+
+![1](gambar/ofbiz1.jpg)<br>
