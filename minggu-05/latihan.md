@@ -39,6 +39,7 @@ krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ ./gradlew cleanAll "ofbiz --load-da
 Setelah menginstal Apache OFBiz, Gunakan perintah berikut untuk memulai layanan Apache OFBiz di sistem.
 
 Berikut cara untuk login dan URL Apache OfBiz :
+
 Untuk login, user/password: admin/ofbiz<br>
 Default dashboard: https://localhost:8443/ordermgr/control/main<br>
 Catalog Manager: https://localhost:8443/catalog<br>
