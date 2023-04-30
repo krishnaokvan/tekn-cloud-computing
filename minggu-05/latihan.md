@@ -27,7 +27,7 @@ krishnaokvan@ubuntu:~/apache-ofbiz-18.12.07$ sudo ./gradlew cleanAll loadAll
 ```
 
 Tunggu sampai proses instalasi selesai.<br>
-![2](gambar/instalasi/Installation_2.jpg)<br>
+![2](gambar/steep4.jpg)<br>
 
 ### Akses OFBiz 
 Jalankan service OFBiz, kemudian akses melalui browser. 
