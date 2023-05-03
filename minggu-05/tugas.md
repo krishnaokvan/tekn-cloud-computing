@@ -1,4 +1,6 @@
 # Apache OFBiz Demo
+Apache OFBiz Demo adalah sebuah contoh atau demo dari webstore yang dibangun menggunakan Apache OFBiz. Demo ini memperlihatkan berbagai fitur dan fungsionalitas yang dimiliki oleh Apache OFBiz sebagai platform e-commerce, seperti tampilan produk, keranjang belanja, pembayaran, dan sebagainya.
+
 ## Front End E-Commerce Webstore Tutorial
 
 ### Akses Web Demo E-Commerce
