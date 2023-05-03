@@ -1,5 +1,6 @@
 # Apache OFBiz Installation
-Apache OFBiz (The Apache Open For Business Project) adalah paket bisnis perusahaan Apache Foundation. Yang dirilis dibawah lisensi Apache 2.0. Apache OFBiz ™ merupakan produk open source untuk otomatisasi proses perusahaan yang mencakup komponen framework dan aplikasi bisnis untuk ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), E-Bisnis / E-Commerce, SCM (Supply Chain Management) , MRP (Manufacturing Resource Planning), MMS / EAM (Maintenance Management System / Enterprise Asset Management), POS (Point Of Sale).
+Apache OFBiz (The Apache Open For Business Project) adalah paket bisnis perusahaan Apache Foundation. Apache OFBiz merupakan produk open source untuk otomatisasi proses perusahaan yang mencakup komponen framework dan aplikasi bisnis untuk ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), E-Bisnis / E-Commerce, SCM (Supply Chain Management) , MRP (Manufacturing Resource Planning), MMS / EAM (Maintenance Management System / Enterprise Asset Management), POS (Point Of Sale).
+
 ### Install Packet yang dibutuhkan
 Install paket Java dan Gradle
 ```bash
