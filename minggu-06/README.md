@@ -1,4 +1,4 @@
-# Minggu-06
+# Praktikum Cloud Minggu-06
 ## Data as a Service
 
 [Latihan: Install Go, MySQL, dan MongoDB](latihan-instalasi.md)<br>
