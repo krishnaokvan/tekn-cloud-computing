@@ -71,8 +71,11 @@ Instalasi telah selesai ..
 <div align="center"><img src="gambar/latihan/mg2.jpg" width="500px"></div><br>
 
 2. Install MongoDB dan Cek versinya.
+```bash
+C:\Program Files\MongoDB\Server\6.0\bin
+```
 <div align="center"><img src="gambar/latihan/mg3.jpg" width="500px"></div><br>
 
 <div align="center"><img src="gambar/latihan/mg4.jpg" width="500px"></div><br>
-<div align="center"><img src="gambar/latihan/mg5.jpg" width="500px"></div><br>
+
 
