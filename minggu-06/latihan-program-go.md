@@ -8,7 +8,7 @@
 2. Buat database MySQL dan MongoDB, lalu masukan data kedalamnya.
 <div align="center"><img src="gambar/latihan/mysql1.jpg" width="500px"></div><br>
 
-3. Setelah itu membuat file GO dengan nama [mysql.go] (https://github.com/krishnaokvan/tekn-cloud-computing/blob/master/minggu-06/mysql.go)
+3. Setelah itu membuat file GO dengan nama [mysql.go](https://github.com/krishnaokvan/tekn-cloud-computing/blob/master/minggu-06/mysql.go)
 
 4. Lalu jalankan file tersebut di cmd.
 <div align="center"><img src="gambar/latihan/hasilmysql.jpg" width="500px"></div><br>
