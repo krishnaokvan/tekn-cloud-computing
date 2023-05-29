@@ -14,7 +14,7 @@
 <div align="center"><img src="gambar/latihan/hasilmysql.jpg" width="500px"></div><br>
 
 ## MongoDB
-1. Instal modul dan driver yang diperlukan, lalu buat database dan isikan datanya.
+1. Install modul dan driver yang diperlukan, lalu buat database dan isikan datanya.
 <div align="center"><img src="gambar/latihan/monggo1.jpg" width="500px"></div><br>
 
 2. Lalu buat file GO dengan nama [mongodb.go](https://github.com/krishnaokvan/tekn-cloud-computing/blob/master/minggu-06/mongodb.go)
