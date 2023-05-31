@@ -3,18 +3,16 @@ Buat 2 program menggunakan salah satu pustaka yang ada di implementasi GraphQL d
 
 Menginstal beberapa pustaka pihak ketiga sebelum menjalankan program ini : <br>
 `github.com/graphql-go/graphql
-
 github.com/graphql-go/handler
-
 github.com/go-sql-driver/mysql (hanya diperlukan untuk program MySQL) 
-
-go.mongodb.org/mongo-driver/mongo (hanya diperlukan untuk program MongoDB)`
+go.mongodb.org/mongo-driver/mongo (hanya diperlukan untuk program MongoDB)
+`
 
 Program MYSQL : 
-<div align="center"><img src="gambar/latihan/tg1.jpg" width="500px"></div><br>
+<div align="center"><img src="gambar/latihan/tg1.png" width="500px"></div><br>
 
 
 Program MongoDB : 
-<div align="center"><img src="gambar/latihan/tg2.jpg" width="500px"></div><br>
+<div align="center"><img src="gambar/latihan/tg2.png" width="500px"></div><br>
 
 Pastikan Anda mengganti database_name dengan nama database yang sesuai untuk MySQL dan MongoDB. Juga pastikan MySQL berjalan di localhost:3306 dan MongoDB berjalan di localhost:27017. Anda dapat mengakses program-program ini melalui http://localhost:8080/graphql setelah menjalankan program tersebut.
