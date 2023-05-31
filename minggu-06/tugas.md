@@ -2,9 +2,12 @@
 Buat 2 program menggunakan salah satu pustaka yang ada di implementasi GraphQL di Go untuk membaca data dari MySQL serta MongoDB dan memberikan respon GraphQL, 1 program untuk MySQL, 1 program untuk MongoDB.
 
 Menginstal beberapa pustaka pihak ketiga sebelum menjalankan program ini : <br>
-`github.com/graphql-go/graphql <br>
-github.com/graphql-go/handler <br>
-github.com/go-sql-driver/mysql (hanya diperlukan untuk program MySQL) <br>
+`github.com/graphql-go/graphql
+
+github.com/graphql-go/handler
+
+github.com/go-sql-driver/mysql (hanya diperlukan untuk program MySQL) 
+
 go.mongodb.org/mongo-driver/mongo (hanya diperlukan untuk program MongoDB)`
 
 Program MYSQL : 
