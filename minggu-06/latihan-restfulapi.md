@@ -13,4 +13,4 @@
 <div align="center"><img src="gambar/latihan/monggo1.jpg" width="500px"></div><br>
 
 2. Buat file program untuk membaca data pada database yang telah dibuat. <br>
-<div align="center"><img src="gambar/latihan/tes-mongo.jpg" width="500px"></div><br>
+<div align="center"><img src="gambar/latihan/tesgo-mongo.jpg" width="500px"></div><br>
