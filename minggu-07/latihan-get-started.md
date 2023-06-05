@@ -19,12 +19,12 @@
 <div align="center"><img src="gambar/get6.jpg"></div><br>
 
 7. Push sample pada docker lokal ke docker hub lalu lakukan login ke [Docker Hub](https://hub.docker.com/) dan create repository baru.<br>
-<div align="center"><img src="gambar/get7.jpg"></div><br>
-<div align="center"><img src="gambar/get8.jpg"></div><br>
-<div align="center"><img src="gambar/get8-1.jpg"></div><br>
+<div align="center"><img src="gambar/git7.jpg"></div><br>
+<div align="center"><img src="gambar/git8.jpg"></div><br>
+<div align="center"><img src="gambar/git8-1.jpg"></div><br>
 
 8. Lakukan login pada Docker lokal dengan akun Docker Hub, kemudian buat tag pada sample docker dan push sample ke Docker Hub.<br>
-<div align="center"><img src="gambar/get9.jpg"></div><br>
-<div align="center"><img src="gambar/get9-1.jpg"></div><br>
+<div align="center"><img src="gambar/git9.jpg"></div><br>
+<div align="center"><img src="gambar/git9-1.jpg"></div><br>
 9. Cek ke Docker Hub dan pastikan sudah muncul sample dengan tag seperti gambar dibawah ini<br>
-<div align="center"><img src="gambar/get10.jpg"></div><br>
+<div align="center"><img src="gambar/git10.jpg"></div><br>
