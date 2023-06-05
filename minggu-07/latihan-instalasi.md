@@ -4,11 +4,11 @@
 
 2. Setelah ter-download, jalankan Installer dan tunggu sampai proses instalasi selesai.<br>
 
-<div align="center"><img src="gambar/latihan/instalasi/i1.jpg" width="500px"></div><br>
+<div align="center"><img src="gambar/i1.jpg" width="500px"></div><br>
 
 3. Setelah ter-install diharuskan restart agar proses instalasi selesai dengan sempurna.<br>
 
-<div align="center"><img src="gambar/latihan/instalasi/i2.jpg" width="500px"></div><br>
+<div align="center"><img src="gambar/i2.jpg" width="500px"></div><br>
 
 4. Langkah Selanjutnya [Get Started - Docker](latihan-get-started.md)<br>
 
