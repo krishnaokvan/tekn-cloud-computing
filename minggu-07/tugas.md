@@ -15,7 +15,7 @@
 
 5. Membuat file dengan nama DockerFile pada [C:\Users\asus\tesdocker\go-docker] <br>
 <div align="center"><img src="gambar/dockerfile.jpg"></div>
-- File Go.mod 
+- File Go.mod pada direktori file [C:\Users\asus\tesdocker\go-docker]
 <div align="center"><img src="gambar/gomod.jpg"></div>
 
 6. Setelah menjalankan server sample image docker, lalu checklist kedua pilihan pada windows security alert .. Klik Allow Acces
