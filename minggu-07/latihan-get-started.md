@@ -6,7 +6,7 @@
 2. Cek Image atau Container yang berada di Docker.<br>
 <div align="center"><img src="gambar/get2.jpg"></div><br>
 
-3. Buat direktori baru dengan nama "tesdocker" dan clone sample docker. [instalasi](https://github.com/dockersamples/node-bulletin-board)<br>
+3. Buat direktori baru dengan nama "tesdocker" dan clone sample docker. [[instalasi]](https://github.com/dockersamples/node-bulletin-board)<br>
 <div align="center"><img src="gambar/get3.jpg"></div><br>
 
 4. Masuk ke dalam direktori sample docker dan build sample.<br>
