@@ -8,13 +8,16 @@
 <div align="center"><img src="gambar/gol2.jpg"></div>
 
 3. Lalu buat file dengan nama main.go<br>
-<div align="center"><img src="gambar/run main go.jpg"></div>
+<div align="center"><img src="gambar/gomod.jpg"></div>
 
 4. Lalu buat module.go dengan perintah init dan build sample image docker<br>
 <div align="center"><img src="gambar/run-cmd.jpg"></div>
 
-5. Selanjutnya buat file dengan nama DockerFile<br>
+5. Membuat file dengan nama DockerFile<br>
 <div align="center"><img src="gambar/dockerfile.jpg"></div>
 
-8. Jalankan link localhost:8888 pada browser<br>
+6. Setelah menjalankan server sample image docker, lalu checklist kedua pilihan pada windows security alert
+<div align="center"><img src="gambar/run main go.jpg"></div>
+
+7. Buka link URL [localhost:8888] pada browser/Google Anda..<br>
 <div align="center"><img src="gambar/hasile.jpg"></div>
