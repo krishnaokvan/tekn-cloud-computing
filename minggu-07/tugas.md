@@ -8,13 +8,14 @@
 <div align="center"><img src="gambar/gol2.jpg"></div>
 
 3. Lalu buat file dengan nama main.go<br>
-<div align="center"><img src="gambar/gomod.jpg"></div>
+<div align="center"><img src="gambar/gol3.jpg"></div>
 
 4. Lalu buat module.go dengan perintah init dan build sample image docker<br>
 <div align="center"><img src="gambar/run-cmd.jpg"></div>
 
 5. Membuat file dengan nama DockerFile<br>
 <div align="center"><img src="gambar/dockerfile.jpg"></div>
+<div align="center"><img src="gambar/gomod.jpg"></div>
 
 6. Setelah menjalankan server sample image docker, lalu checklist kedua pilihan pada windows security alert
 <div align="center"><img src="gambar/run main go.jpg"></div>
