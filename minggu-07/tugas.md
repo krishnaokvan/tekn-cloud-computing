@@ -13,8 +13,9 @@
 4. Lalu buat module.go dengan perintah init dan build sample image docker<br>
 <div align="center"><img src="gambar/run-cmd.jpg"></div>
 
-5. Membuat file dengan nama DockerFile<br>
+5. Membuat file dengan nama DockerFile pada [C:\Users\asus\tesdocker\go-docker] <br>
 <div align="center"><img src="gambar/dockerfile.jpg"></div>
+- File Go.mod 
 <div align="center"><img src="gambar/gomod.jpg"></div>
 
 6. Setelah menjalankan server sample image docker, lalu checklist kedua pilihan pada windows security alert
