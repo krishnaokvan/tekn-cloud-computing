@@ -15,3 +15,6 @@
 
 5. Selanjutnya buat file dengan nama DockerFile<br>
 <div align="center"><img src="gambar/dockerfile.jpg"></div>
+
+8. Jalankan link localhost:8888 pada browser<br>
+<div align="center"><img src="gambar/hasile.jpg"></div>
