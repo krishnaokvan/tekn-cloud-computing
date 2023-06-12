@@ -12,7 +12,7 @@ You don’t need to install Python or Redis, as both are provided by Docker imag
 
 1. Create a directory for the project:
 
-<div align="center"><img src="gambar/latihan/get-started/Screenshot(1).jpg"></div><br>
+<div align="center"><img src="gambar/1.jpg"></div><br>
 
 2. Create a file called app.py in your project directory. [Code](kode/app.py) <br>
 
