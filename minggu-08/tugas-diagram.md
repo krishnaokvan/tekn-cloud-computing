@@ -1,8 +1,9 @@
 # Diagram - Docker Compose
 
-Diagram:<br>
-<div align="center"><img src="gambar/tugas/diagram.jpg"></div>
+Berikut Gambar Diagram:<br>
+<div align="center"><img src="gambar/diagram.jpg"></div>
 
+Docker compose memiliki tujuan agar dapat menjalankan multi-containers yang dapat disetting pada file yml, untuk dapat menjalankannya dapat melalui client dengan perintah-perintah yang ada lalu untuk mengatur dan mengelompokkan container tersebut juga dapat diatur dengan docker swarm output yang didapatkan berupa image.:<br>
 Penjelasan:<br>
 - Docker image : sebuah file yang terdiri dari beberapa lapisan (layers) yang saling terkait. Setiap lapisan mewakili perubahan yang dilakukan terhadap image dasar sebelumnya. Lapisan-lapisan ini dibangun secara bertahap saat Dockerfile, yang berisi instruksi-instruksi untuk membangun image, dieksekusi.
 - Container: Container dapat membawa image tadi dan digunakan untuk membantu development. Satu Image dapat digunakan banyak Container.
