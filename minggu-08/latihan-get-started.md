@@ -55,7 +55,7 @@ You don’t need to install Python or Redis, as both are provided by Docker imag
 ### Step 5: Edit the Compose file to add a bind mount<br>
 
 1. Edit docker-compose.yml in your project directory to add a bind mount for the web service. [Code](kode/docker-compose.yml)<br>
-<div align="center"><img src="gambar/8.jpg"></div>
+<div align="center"><img src="gambar/8yml.jpg"></div>
 
 ### Step 6: Re-build and run the app with Compose <br>
 
