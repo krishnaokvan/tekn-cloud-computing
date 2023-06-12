@@ -88,3 +88,6 @@ You don’t need to install Python or Redis, as both are provided by Docker imag
 4. You can bring everything down, removing the containers entirely, with the down command. Pass --volumes to also remove the data volume used by the Redis container. <br>
 
 <div align="center"><img src="gambar/steep8d.jpg"></div><br>
+
+### Folder File Composetest: 
+<div align="center"><img src="gambar/last.jpg"></div><br>
