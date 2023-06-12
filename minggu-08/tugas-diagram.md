@@ -1,7 +1,7 @@
 # Diagram - Docker Compose
 adalah sebuah alat yang digunakan untuk mengelola dan menjalankan aplikasi yang terdiri dari beberapa layanan (services) yang berjalan dalam kontainer Docker. Dengan menggunakan Docker Compose, Anda dapat mendefinisikan dan mengkonfigurasi layanan apa saja yang diperlukan untuk menjalankan aplikasi Anda serta bagaimana layanan-layanan tersebut saling berinteraksi.
 
-Berikut Gambar Diagram:<br>
+##  Berikut Gambar Diagram:<br>
 <div align="center"><img src="gambar/diagram.jpg"></div>
 
 Docker compose memiliki tujuan agar dapat menjalankan multi-containers yang dapat disetting pada file yml, untuk dapat menjalankannya dapat melalui client dengan perintah-perintah yang ada lalu untuk mengatur dan mengelompokkan container tersebut juga dapat diatur dengan docker swarm output yang didapatkan berupa image.<br>
