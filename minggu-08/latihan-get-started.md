@@ -42,7 +42,7 @@ You don’t need to install Python or Redis, as both are provided by Docker imag
 
 3. Refresh the page. The number should increment.<br>
 
-<div align="center"><img src="gambar/latihan/5.jpg"></div><br>
+<div align="center"><img src="gambar/5.jpg"></div><br>
 
 4. Switch to another terminal window, and type docker image ls to list local images.<br>
 
