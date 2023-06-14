@@ -73,18 +73,17 @@ The Dockerfile syntax is straightforward. In this task, we’re going to create 
 
 ### Start our web app with a bind mount
 
-<div><img src="gambar/index.jpg"></div>
+<div><img src="gambar/index1.jpg"></div>
 <div><img src="gambar/t5.jpg"></div>
 <div><img src="gambar/t6.jpg"></div>
 
 ### Modify the running website
 
-<div><img src="gambar/screenshot-22.jpg"></div>
-<div><img src="gambar/screenshot-23.jpg"></div>
-<div><img src="gambar/screenshot-24.jpg"></div>
-<div><img src="gambar/screenshot-25.jpg"></div>
-<div><img src="gambar/screenshot-26.jpg"></div>
-<div><img src="gambar/screenshot-27.jpg"></div>
+<div><img src="gambar/index1.jpg"></div>
+<div><img src="gambar/s1.jpg"></div>
+<div><img src="gambar/s2.jpg"></div>
+<div><img src="gambar/s4.jpg"></div>
+<div><img src="gambar/s3.jpg"></div>
 
 ### Update the image
 
@@ -99,6 +98,10 @@ The Dockerfile syntax is straightforward. In this task, we’re going to create 
 <div><img src="gambar/screenshot-33.jpg"></div>
 
 ### Push your images to Docker Hub
+
+<div><img src="gambar/dockerlogin.jpg"></div>
+<div><img src="gambar/dockerlogin1.jpg"></div>
+<div><img src="gambar/dockerlogin2.jpg"></div>
 
 Hasil pada dockerHub : 
 <div><img src="gambar/hasil.jpg"></div>
