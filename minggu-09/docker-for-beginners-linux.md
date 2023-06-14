@@ -99,7 +99,7 @@ To persist the changes you made to the index.html file into the image, you need 
 <div><img src="gambar/t6.jpg"></div>
 
 ### Push your images to Docker Hub
-
+<div><img src="gambar/push1.jpg"></div>
 <div><img src="gambar/dockerlogin.jpg"></div>
 <div><img src="gambar/dockerlogin1.jpg"></div>
 <div><img src="gambar/dockerlogin2.jpg"></div>
