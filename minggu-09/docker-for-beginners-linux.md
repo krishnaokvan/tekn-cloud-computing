@@ -86,7 +86,7 @@ The Dockerfile syntax is straightforward. In this task, we’re going to create 
 <div><img src="gambar/s4.jpg"></div>
 
 ### Update the image
-
+To persist the changes you made to the index.html file into the image, you need to build a new version of the image.
 <div><img src="gambar/newversion1.jpg"></div>
 <div><img src="gambar/newversion2.jpg"></div>
 
