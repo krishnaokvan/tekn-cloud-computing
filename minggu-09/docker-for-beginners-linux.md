@@ -82,8 +82,8 @@ The Dockerfile syntax is straightforward. In this task, we’re going to create 
 <div><img src="gambar/index1.jpg"></div>
 <div><img src="gambar/s1.jpg"></div>
 <div><img src="gambar/s2.jpg"></div>
-<div><img src="gambar/s4.jpg"></div>
 <div><img src="gambar/s3.jpg"></div>
+<div><img src="gambar/s4.jpg"></div>
 
 ### Update the image
 
