@@ -101,5 +101,6 @@ To persist the changes you made to the index.html file into the image, you need 
 <div><img src="gambar/dockerlogin1.jpg"></div>
 <div><img src="gambar/dockerlogin2.jpg"></div>
 
+<br>
 You can browse to https://hub.docker.com/r/krishnaokvan/ and see your newly-pushed Docker images. These are public repositories, so anyone can pull the image - you don’t even need a Docker ID to pull public images. Docker Hub also supports private repositories.
 <div><img src="gambar/hasil.jpg"></div>
