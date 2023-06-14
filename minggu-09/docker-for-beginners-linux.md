@@ -47,8 +47,8 @@ In this section you’ll try each of those options and see how Docker manages th
 ### Run a background MySQL container
 
 <div><img src="gambar/r1.jpg"></div>
-<div><img src="gambar/r2"></div>
-<div><img src="gambar/r3"></div>
+<div><img src="gambar/r2.jpg"></div>
+<div><img src="gambar/r3.jpg"></div>
 <div><img src="gambar/r4.jpg"></div>
 <div><img src="gambar/r5.jpg"></div>
 <div><img src="gambar/r6.jpg"></div>
