@@ -92,10 +92,8 @@ To persist the changes you made to the index.html file into the image, you need 
 
 ### Test the new version
 
-<div><img src="gambar/screenshot-30.jpg"></div>
-<div><img src="gambar/screenshot-31.jpg"></div>
-<div><img src="gambar/screenshot-32.jpg"></div>
-<div><img src="gambar/screenshot-33.jpg"></div>
+<div><img src="gambar/t5.jpg"></div>
+<div><img src="gambar/t6.jpg"></div>
 
 ### Push your images to Docker Hub
 
