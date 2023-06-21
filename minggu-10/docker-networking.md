@@ -1,6 +1,6 @@
 # Docker Networking Hands-on Lab
 
-Laporan beserta gambar dibawah ini adalah hasil praktikum melalui [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol/), sehingga untuk materi dan penjelasan lebih detailnya dapat diakses melalui web tersebut.
+Tutorial ada di web [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol/)
 
 ### Task
 
