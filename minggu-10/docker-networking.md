@@ -4,12 +4,12 @@ Tutorial ada di web [Docker Networking Hands-on Lab](https://training.play-with-
 
 ### Task
 
-- [Section #1 - Networking Basics](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#section-1---networking-basics)
+- [Section #1 - Networking Basics](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#Bagian-1---networking-basics)
 - [Section #2 - Bridge Networking](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#Bagian-2---Jaringan-Jembatan)
-- [Section #3 - Overlay Networking](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#section-3---overlay-networking)
-- [Cleaning Up](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#cleaning-up)
+- [Section #3 - Overlay Networking](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#Bagian-3---Jaringan-Hamparan)
+- [Cleaning Up](https://github.com/krishnaokvan/tekn-cloud-computing/blob/main/minggu-10/docker-networking.md#Membersihkan)
 
-## Section #1 - Networking Basics
+## Bagian #1 - Networking Basics
 
 ### Langkah 1: Perintah Jaringan Docker
 Perintah ```docker network``` adalah perintah utama untuk mengonfigurasi dan mengelola jaringan kontainer. Jalankan perintah ```docker network``` dari terminal pertama.
