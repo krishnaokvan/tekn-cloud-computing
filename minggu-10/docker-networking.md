@@ -14,6 +14,7 @@ Tutorial ada di web [Docker Networking Hands-on Lab](https://training.play-with-
 ### Step 1: The Docker Network Command
 The ```docker network``` command is the main command for configuring and managing container networks. Run the ```docker network``` command from the first terminal.
 <div><img src="gambar/1.png"></div>
+
 <div><img src="gambar/2.png"></div>
 
 ### Step 2: List networks
