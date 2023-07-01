@@ -19,6 +19,8 @@ The report below is the results of the practicum accessed via [Application Conta
 Let’s get started by first cloning the demo code repository, changing the working directory, and checking the ```demo``` branch out.
 
 <div align="center"><img src="gambar/1.png"></div>
+
+The `git clone` command is used to download the code that is in the repository.
 <div align="center"><img src="gambar/2.png"></div>
 
 ## Step 0: Basic Link Extractor Script
