@@ -207,7 +207,7 @@ Verify that the changes made locally do not reflect in the running service by re
 
 Now, shut these services down and get ready for the next step:
 
-<div align="center"><img src="gambar/46.png"></div><br>
+<div align="center"><img src="gambar/46down.png"></div><br>
 
 We have successfully orchestrated three microservices to compose our Link Extractor application. We now have an application stack that represents the architecture illustrated in the figure shown in the introduction of this tutorial. In the next step we will explore how easy it is to swap components from an application with the microservice architecture.
 
