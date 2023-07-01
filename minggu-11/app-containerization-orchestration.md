@@ -133,7 +133,7 @@ Now, let’s have a look at the user-facing ```www/index.php``` file:
 
 Let’s bring these services up in detached mode using ```docker-compose``` utility. Checking for the list of running containers confirms that the two services are indeed running:
 
-<div align="center"><img src="gambar/24.png"></div><br>
+<div align="center"><img src="gambar/24.png"></div>
 <div align="center"><img src="gambar/24b.png"></div><br>
 
 We should now be able to talk to the API service as before:
