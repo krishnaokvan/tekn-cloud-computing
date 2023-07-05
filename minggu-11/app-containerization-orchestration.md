@@ -147,7 +147,7 @@ Now, let’s modify the ```www/index.php``` file to replace all occurrences of `
 
 Reloading the web interface of the application (or [clicking here](https://training.play-with-docker.com/)) should now reflect this change in the title, header, and footer. 
 
-<div align="center"><img src="gambar/29.png"></div><br>
+<div align="center"><img src="gambar/29link.png"></div><br>
 
 Let’s revert these changes now to clean the Git tracking:
 
