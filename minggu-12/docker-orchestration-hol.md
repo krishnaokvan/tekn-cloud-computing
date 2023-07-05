@@ -31,7 +31,7 @@ If you are typically only using ```docker run``` to deploy your applications, th
 ### Step 2.1 - Create a Manager node
 
 <div align="center"><img src="gambar/4.jpg"></div>
-<div align="center"><img src="gambar/5.jpg"></div>
+<div align="center"><img src="gambar/5info.jpg"></div>
 
 ### Step 2.2 - Join Worker nodes to the Swarm
 
