@@ -24,36 +24,40 @@ If you are typically only using ```docker run``` to deploy your applications, th
 <div align="center"><img src="gambar/1.jpg"></div>
 
 ## Section 2: Configure Swarm Mode
-
+An example of running things manually and on a single host would be to create a new container on node1 by running docker run `-dt ubuntu sleep infinity`.
 <div align="center"><img src="gambar/2.jpg"></div>
 <div align="center"><img src="gambar/3.jpg"></div>
 
 ### Step 2.1 - Create a Manager node
+In this step you’ll initialize a new Swarm, join a single worker node, and verify the operations worked.
 
+Run docker `swarm init` on node1.
 <div align="center"><img src="gambar/4.jpg"></div>
 <div align="center"><img src="gambar/5info.jpg"></div>
 
 ### Step 2.2 - Join Worker nodes to the Swarm
-
-<div align="center"><img src="gambar/6.jpg"></div>
+Remember, the tokens displayed here are not the actual tokens you will use. Copy the command from the output on node1. On node2 and node3 it should look like this:<b
+<div align="center"><img src="gambar/6.jpg"></div><br>
 <div align="center"><img src="gambar/7.jpg"></div>
 
 ## Section 3: Deploy applications across multiple hosts
+Now that you have a swarm up and running, it is time to deploy our really simple sleep application.
+You will perform the following procedure from node1.
 
 ### Step 3.1 - Deploy the application components as Docker services
-
+Let’s deploy `sleep` as a Service across our Docker Swarm.
 <div align="center"><img src="gambar/8.jpg"></div>
 
 ## Section 4: Scale the application
-
-<div align="center"><img src="gambar/9.jpg"></div>
-<div align="center"><img src="gambar/10.jpg"></div>
-<div align="center"><img src="gambar/11.jpg"></div>
-<div align="center"><img src="gambar/12.jpg"></div>
-<div align="center"><img src="gambar/13.jpg"></div>
+Scale the number of containers in the sleep-app service to 7 with the docker service update `--replicas 7 sleep-app` command. `replicas` is the term we use to describe identical containers providing the same service.
+<div align="center"><img src="gambar/9.jpg"></div><br>
+<div align="center"><img src="gambar/10.jpg"></div><br>
+<div align="center"><img src="gambar/11.jpg"></div><br>
+<div align="center"><img src="gambar/12.jpg"></div><br>
+<div align="center"><img src="gambar/13.jpg"></div><br>
 
 ## Section 5: Drain a node and reschedule the containers
-
+Take a look at the status of your nodes again by running docker `node ls` on node1.
 <div align="center"><img src="gambar/14.jpg"></div>
 <div align="center"><img src="gambar/15.jpg"></div>
 <div align="center"><img src="gambar/16.jpg"></div>
@@ -63,7 +67,7 @@ If you are typically only using ```docker run``` to deploy your applications, th
 <div align="center"><img src="gambar/20.jpg"></div>
 
 ## Cleaning Up
-
+Execute the `docker service rm sleep-app` command on node1 to remove the service called myservice.
 <div align="center"><img src="gambar/21.jpg"></div>
 <div align="center"><img src="gambar/22.jpg"></div>
 <div align="center"><img src="gambar/23.jpg"></div>
