@@ -79,7 +79,7 @@ Pada langkah ini Anda akan menginisialisasi Swarm baru, bergabung dengan satu no
 ### Langkah 2: Buat jaringan overlay
 Sekarang Anda memiliki Swarm yang diinisialisasi, saatnya membuat jaringan overlay. Buat jaringan overlay baru yang disebut "overnet" dengan menjalankan ```docker network create -d overlay overnet```. Gunakan perintah ```docker network ls``` untuk memverifikasi bahwa jaringan berhasil dibuat. Jalankan perintah ```docker network ls``` yang sama dari terminal kedua.
 <div><img src="gambar/17a.png"></div><br>
-<div><img src="gambar/17bpng"></div><br>
+<div><img src="gambar/17b.png"></div><br>
 
 Perhatikan bahwa jaringan “overnet” tidak muncul dalam daftar. Ini karena Docker hanya memperluas jaringan overlay ke host saat dibutuhkan. Ini biasanya saat host menjalankan tugas dari layanan yang dibuat di jaringan. Kami akan melihat ini segera.
 
