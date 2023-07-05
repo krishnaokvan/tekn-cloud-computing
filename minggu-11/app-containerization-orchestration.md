@@ -152,7 +152,7 @@ Reloading the web interface of the application (or [clicking here](https://train
 Let’s revert these changes now to clean the Git tracking:
 
 <div align="center"><img src="gambar/30.png"></div><br>
-<div align="center"><img src="gambar/31.png"></div><br>
+<div align="center"><img src="gambar/31link.png"></div><br>
 
 Before we move on to the next step we need to shut these services down, but Docker Compose can help us take care of it very easily:
 
