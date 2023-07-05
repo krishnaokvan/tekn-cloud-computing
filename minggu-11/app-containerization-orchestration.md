@@ -1,12 +1,8 @@
 # Application Containerization and Microservice Orchestration
-
-The report and pictures below are the result of [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/), for more detailed material and explanations can be accessed via the web.
-
+The report below is the results of the practicum accessed via [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/), materials and more detailed explanations can be accessed through the website.
 
 ### Steps
 # Application Containerization and Microservice Orchestration
-
-The report below is the results of the practicum accessed via [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/), materials and more detailed explanations can be accessed through the website.
 
 ### Steps
 
