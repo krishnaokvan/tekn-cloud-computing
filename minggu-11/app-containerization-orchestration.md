@@ -1,6 +1,7 @@
 # Application Containerization and Microservice Orchestration
 
-Laporan beserta gambar dibawah ini adalah hasil praktikum melalui [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/), sehingga untuk materi dan penjelasan lebih detailnya dapat diakses melalui web tersebut.
+The report and pictures below are the result of [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/), for more detailed material and explanations can be accessed via the web.
+
 
 ### Steps
 # Application Containerization and Microservice Orchestration
