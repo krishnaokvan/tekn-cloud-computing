@@ -1,7 +1,7 @@
 # Kubernetes Intro
 
 ## Step 1 : [Minikube Installation & Configuration](https://minikube.sigs.k8s.io/docs/start/)
-1. Download Minikube Installer and run the installer for the latest release in [this link](https://storage.googleapis.com/minikube/releases/latest/minikube-installer.exe).<br>
+1. Download Minikube Installer and run the installer for the latest release in [this link](https://storage.googleapis.com/minikube/releases/latest/minikube-installer.exe) or [use command](https://minikube.sigs.k8s.io/docs/start/).<br>
 <div align="center"><img src="gambar/p1.jpg"></div>
 <div align="center"><img src="gambar/p2.jpg"></div>
 
