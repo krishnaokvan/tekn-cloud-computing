@@ -54,21 +54,21 @@ The application code inside the test image only listens on TCP port 8080. If you
 <div align="center"><img src="gambar/14.PNG"></div>
 
 3. View the Pod and Service you created by installing that addon with following this command ```kubectl get pod,svc -n kube-system```:<br>
-<div align="center"><img src="gambar/15.PNG"></div>
+<div align="center"><img src="gambar/15a.PNG"></div>
 
 4. Disable metrics server with following this command ```minikube addons disable metrics-server```:<br>
-!<div align="center"><img src="gambar/16.PNG"></div>
+<div align="center"><img src="gambar/15b.PNG"></div>
 
 ## Step 5 : [Clean Up](https://kubernetes.io/docs/tutorials/hello-minikube/#clean-up)
 
 1. Try to clean up the resources you created in your cluster, with following this command ```kubectl delete service hello-node & kubectl delete deployment hello-node```:<br>
-<div align="center"><img src="gambar/17.PNG"></div><br>
-<div align="center"><img src="gambar/18.PNG"></div>
+<div align="center"><img src="gambar/15c.PNG"></div>
+<div align="center"><img src="gambar/15d.PNG"></div>
 
 2. Stop the Minikube cluster with following this command ```minikube stop```.<br>
-<div align="center"><img src="gambar/19.PNG"></div>
+<div align="center"><img src="gambar/15e.PNG"></div>
 
 3. Optionally, delete the Minikube Virtual Machine with following this command ```minikube delete```:<br>
-<div align="center"><img src="gambar/20.PNG"></div>
+<div align="center"><img src="gambar/15f.PNG"></div>
 
 If you want to use minikube again to learn more about Kubernetes, you don't need to delete it.
