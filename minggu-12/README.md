@@ -1,4 +1,5 @@
 # Praktikum TCC Minggu-12
-## 	Docker Orchestration Hands-on Lab
+## 	Kubernetes Intro
 
-[Docker Orchestration Hands-on Lab](docker-orchestration-hol.md)
+[Kubernetes Intro]( )
+
